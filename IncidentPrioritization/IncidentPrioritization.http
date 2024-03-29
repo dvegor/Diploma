@@ -1,0 +1,6 @@
+@IncidentPrioritization_HostAddress = http://localhost:5028
+
+GET {{IncidentPrioritization_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
